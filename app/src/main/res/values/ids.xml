@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="listView1" type="id" />
+    <item name="editText1" type="id" />
+    <item name="textView1" type="id" />
+    <item name="textView2" type="id" />
+    <item name="editText2" type="id" />
+    <item name="textView3" type="id" />
+    <item name="editText3" type="id" />
+    <item name="textView4" type="id" />
+    <item name="editText4" type="id" />
+    <item name="textView5" type="id" />
+    <item name="editText5" type="id" />
+    <item name="button1" type="id" />
+    <item name="button2" type="id" />
+    <item name="TextView05" type="id" />
+    <item name="TextView03" type="id" />
+    <item name="TextView04" type="id" />
+    <item name="TextView02" type="id" />
+    <item name="TextView01" type="id" />
+    <item name="nav_host_fragment_content_main" type="id" />
+</resources>
